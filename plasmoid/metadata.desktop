@@ -13,6 +13,6 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-ParentApp=
 X-KDE-PluginInfo-Author=Solant
 X-KDE-PluginInfo-Name=com.solant.plasmataker
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=1.2.0
 X-KDE-PluginInfo-Website=https://github.com/Solant/plasmataker
 X-KDE-ServiceTypes=Plasma/Applet

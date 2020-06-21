@@ -5,10 +5,15 @@ import org.kde.plasma.components 2.0 as PlasmaComponents
 Item {
     id: root
     Plasmoid.backgroundHints: "NoBackground";
-    width: 83
-    height: 83
+    width: 100
+    height: 100
     
-    AnimatedImage {
-        source: "../resources/" + plasmoid.configuration.sprite + ".gif"
+    AnimatedSprite {
+        source: "../resources/" + plasmoid.configuration.sprite + ".png"
+        frameWidth: 100
+        frameHeight: 100
+        frameCount: 12
+        frameDuration: 70
+        interpolate: false
     }
 }

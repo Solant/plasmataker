@@ -25,7 +25,7 @@ Item {
                 { value: "Cerberus", text: i18n("Cerberus") },
                 { value: "Helltaker", text: i18n("Helltaker") },
                 { value: "Helltaker_Apron", text: i18n("Helltaker with apron") },
-                { value: "Judgement", text: i18n("Judgement") },
+                { value: "Judgment", text: i18n("Judgment") },
                 { value: "Justice", text: i18n("Justice") },
                 { value: "Lucifer", text: i18n("Lucifer") },
                 { value: "Lucifer_Apron", text: i18n("Lucifer with apron") },
