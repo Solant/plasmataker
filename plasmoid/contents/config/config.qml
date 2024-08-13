@@ -5,6 +5,6 @@ ConfigModel {
     ConfigCategory {
         name: "General"
         icon: "configure"
-        source: "config/general.qml"
+        source: "configGeneral.qml"
     }
 }

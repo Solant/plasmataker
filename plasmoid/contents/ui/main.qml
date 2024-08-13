@@ -1,8 +1,7 @@
 import QtQuick 2.5
-import org.kde.plasma.plasmoid 2.0
-import org.kde.plasma.components 2.0 as PlasmaComponents
+import org.kde.plasma.plasmoid
 
-Item {
+PlasmoidItem {
     id: root
     Plasmoid.backgroundHints: "NoBackground";
     width: 100
