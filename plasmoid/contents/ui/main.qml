@@ -4,10 +4,9 @@ import org.kde.plasma.plasmoid
 PlasmoidItem {
     id: root
     Plasmoid.backgroundHints: "NoBackground";
-    width: 100
-    height: 100
     
     AnimatedSprite {
+        anchors.fill: parent
         source: "../resources/" + plasmoid.configuration.sprite + ".png"
         frameWidth: 100
         frameHeight: 100

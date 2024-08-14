@@ -1,6 +1,6 @@
 #!/bin/bash
 
-filename=plasmataker-v2.0.1-plasma6.plasmoid
+filename=plasmataker-v2.1.0-plasma6.plasmoid
 
 cd plasmoid
 
