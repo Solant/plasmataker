@@ -1,6 +1,9 @@
 #!/bin/bash
 
-filename=plasmataker-v2.1.0-plasma6.plasmoid
+version="$(jq < ./plasmoid/metadata.json -r '.KPlugin.Version')"
+filename="plasmataker-v${version}-plasma6.plasmoid"
+
+echo "${filename}"
 
 cd plasmoid
 
