@@ -5,7 +5,7 @@
         "Icon": "face-in-love",
         "Id": "com.github.solant.plasmataker",
         "Name": "Plasmataker",
-        "Version": "2.1.0",
+        "Version": "2.1.1",
         "Website": "https://github.com/solant/plasmataker"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
